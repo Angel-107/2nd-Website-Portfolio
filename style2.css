@@ -1,0 +1,114 @@
+ body{
+     margin: 0%;
+     
+ }
+ 
+ h1{
+    color:palevioletred;
+    font-size: 40px;
+    }
+    h3{
+         color: grey;
+    }
+
+.box{
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+       
+}
+.box img{
+    width: 100%;
+}
+ .top-banner{
+     background-image: url(images/header-bg.png);
+     background-position: left;
+     background-repeat: no-repeat;
+     
+     padding: 10%;
+
+}   
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:white;
+    font:bold;
+}
+p{
+    color: grey;
+}
+.another {
+    width: 40%;
+    float: right;
+    margin-left: 10%;
+    text-align:left;
+    
+    
+
+}
+.another  img{
+    width: 70%;
+
+}
+.biography-area{
+
+background-image: url(images/biography-bg.png);
+     background-position: left;
+     background-repeat: no-repeat;
+     padding-top: 5%;
+}
+.work-images img{
+    width: 250px;
+    height: 250px;
+    margin-left: 3%;
+    padding: 3%;
+    white-space: pre-wrap;
+   
+}
+.work-images{
+    text-align: center;
+}
+.footer{
+    text-align: center
+    
+}
+.middle-banner{
+    background-image: url(images/header-bg.png);
+    padding: 0%;
+    background-position: right;
+}
+
+.footer-part{
+background-image: url(images/footer-bg.png);
+padding: 5%;
+background-repeat: no-repeat;
+
+}
+.link-type{text-decoration: none;
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 10px 10px;
+    border-radius: 5px;
+    color:white;
+    font:bold;
+    position: relative;
+    left: 35%;
+    
+
+}
+
+
+
+
+    
+
+
+    
+
+
+            
+       
